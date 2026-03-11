@@ -79,7 +79,7 @@ f1-backend/
 ├── cache/                       # Cache do FastF1 (criado automaticamente)
 ├── requirements.txt              # Dependências do projeto
 └── README.md                     # Este arquivo
-
+```
 ## 🌐 Endpoints da API
 
 ### 📊 Classificações (/api/standings)
