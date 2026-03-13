@@ -23,7 +23,12 @@ app = FastAPI(
 # Configurar CORS corretamente
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:4200"],
+    allow_origins=[
+        "http://localhost:4200",           
+        "https://f1-app-snowy.vercel.app", 
+        "https://f1-app.vercel.app",       
+        
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
