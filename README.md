@@ -26,7 +26,7 @@ API poderosa para dados de Fórmula 1, construída com **FastAPI** e **FastF1**.
 
 1.  **Clone o repositório**
     ```bash
-    git clone [https://github.com/seu-usuario/f1-backend.git](https://github.com/seu-usuario/f1-backend.git)
+    git clone [https://github.com/gabriel-augustodev/f1-backend.git](https://github.com/gabriel-augustodev/f1-backend.git)
     cd f1-backend
     ```
 
